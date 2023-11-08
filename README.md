@@ -1,5 +1,8 @@
 ### Hi there 👋🙃
-
+### My name's **Joelson Botelho**😎
+- I'm a **Computer Science** student 👨🏽‍🎓👨🏽‍💻
+- I love **programming** ❤️ in particular **Backend** 👨🏽‍💻
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelsonBotelho&show_icons=true&theme=radical)
 
